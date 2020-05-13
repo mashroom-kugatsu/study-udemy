@@ -1,0 +1,11 @@
+Git使い方メモ
+
+〇バージョン確認
+　git version
+
+〇GitHub設定
+　git config --global user.name "user name"
+　git config --global user.email ***
+
+〇ローカルリポジトリの新規作成, .gitディレクトリの作成
+　git init

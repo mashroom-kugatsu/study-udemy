@@ -4,3 +4,7 @@ Gitの勉強
 うまくいかない。。。
 日付かわった
 またわからん
+
+git add
+git commit
+git rm
